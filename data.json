@@ -1,0 +1,35 @@
+{
+"basics":{
+"photo":"murali.png",
+"name":"m.dilhibabu",
+"email":"dilhibabu123@gmail.com",
+"mobile":"9874561230",
+"address":"bugga agraharam(vi&po),nagari(m)"
+},
+
+"career":{
+  "info":"I aspire for a challenging position in a professional Organization where I can enhance my professional skills and strengthen my performance in adding with Organization’s motto. Myself a self motivated achiever with an ability to plan and execute."
+},
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,puttur",
+    "data":["2017-2020","82%"]
+  },
+  {
+    "course":"BSC[mpcs]",
+    "college":"govt.degree college,nagari",
+    "data":["2014-2017","72%"]
+  },
+  {
+  "course":"MPC",
+  "college":"sri surya junior college,nagari",
+  "data":["2012-2014","86%"]
+},
+{
+  "course":"ssc",
+  "college":"Sri sarvani vidya niketan,nagari",
+  "data":["2011-2012","92%"]
+}
+]
+}
